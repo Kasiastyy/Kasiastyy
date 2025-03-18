@@ -1,8 +1,9 @@
-<div allign = "center">
+<div align = "center">
     <h1>Hello there!</h1>
     <br>
     <img src = "assets/kenobi.gif">
 </div>
+
 
 <h2>About me:</h2>
 
