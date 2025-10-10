@@ -19,18 +19,13 @@
 
 <h2>Technologies I use: </h2>
 <p>
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+    <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
     <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=0000" alt="github logo" title="github" height="25" />
     <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
     <img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=306698" alt="python logo" title="python" height="25" />
     <img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=117698" alt="cpp logo" title="cpp" height="25" />
-</p>
-
-<h2>Technologies I'm currently learning: </h2>
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-    <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-    <img src="https://img.shields.io/badge/rust-282C34?logo=rust&logoColor=CE412B" alt="rust logo" title="rust" height="25" />
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="posgresql logo" title="postgreslq" height="25" />
     <img src="https://img.shields.io/badge/java-282C34?logo=openjdk&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" />
 </p>
