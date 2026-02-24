@@ -4,6 +4,13 @@
     <img src = "assets/kenobi.gif">
 </div>
 
+<h2>Github Stats: </h2>
+<div align="center">
+    <img
+       <img src="http://github-readme-streak-stats.herokuapp.com?user=Kasiastyy&theme=dark&background=282c34" />
+</div>
+
+
 <h2>Technologies I use: </h2>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
