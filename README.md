@@ -7,9 +7,10 @@
 <h2>Github stats:</h2>
 </div>
 
+
 <div align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Kasiastyy&show_icons=true&theme=tokyonight&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Kasiastyy&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
