@@ -4,20 +4,6 @@
     <img src = "assets/kenobi.gif">
 </div>
 
-<h2>Github stats:</h2>
-</div>
-
-
-<div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=Kasiastyy&show_icons=true&theme=radical" />
-</div>
-
-<div align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasiastyy&layout=compact&theme=tokyonight&count_private=true" />
-</div>
-
 <h2>Technologies I use: </h2>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
